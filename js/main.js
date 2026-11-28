@@ -82,7 +82,7 @@
   }
 
   /* ---------- Forms: build a prefilled email (no server needed) ---------- */
-  var SUPPORT = 'morganflex1t@hotmail.com';
+  var SUPPORT = 'support@mindsetresetbooks.com';
 
   document.querySelectorAll('form[data-mailto]').forEach(function (form) {
     var phone = form.querySelector('input[name="phone"]');
